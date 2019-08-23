@@ -1,0 +1,26 @@
+.jumbotron{
+    text-align: center;
+    font-size:12px
+}
+.title{
+    text-align: center;
+    font-size:12px;
+}
+
+.content{
+    margin:0 auto;
+}
+
+.stats {
+    margin:0 auto;
+    list-style: none;
+}
+
+.one, .two, .three, .four, .five{
+    float: left;
+    
+}
+
+.two, .three, .four, .five{
+    margin-left:50px;
+}

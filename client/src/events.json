@@ -1,0 +1,640 @@
+[
+    {
+      "id": 1,
+      "name": "Assassin",
+      "text": "Enemy assassins sneak past the walls and murder some of your troops.",
+      "army": -30,
+      "engineers": -20,
+      "civ": 0,
+      "gold": 0,
+      "WS": 0,
+      "ES": 0
+
+    },
+    {
+        "id": 2,
+        "name": "Assassin",
+        "text": "Enemy assassins sneak past the walls and murder some of your troops.",
+        "army": -30,
+        "engineers": -20,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 3,
+        "name": "Assassin",
+        "text": "Enemy assassins sneak past the walls and murder some of your troops.",
+        "army": -30,
+        "engineers": -20,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 4,
+        "name": "Assassin",
+        "text": "Enemy assassins sneak past the walls and murder some of your troops.",
+        "army": -30,
+        "engineers": -20,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 5,
+        "name": "Militia",
+        "text": "Militia forces sneak past the enemy camp and join your forces.",
+        "army": 60,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 6,
+        "name": "Militia",
+        "text": "Militia forces sneak past the enemy camp and join your forces.",
+        "army": 60,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 7,
+        "name": "Militia",
+        "text": "Militia forces sneak past the enemy camp and join your forces.",
+        "army": 60,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 8,
+        "name": "Dwarves",
+        "text": "Skilled Dwarven engineers join the fray.",
+        "army": 0,
+        "engineers": 400,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 9,
+        "name": "Dwarves",
+        "text": "Skilled Dwarven engineers join the fray.",
+        "army": 0,
+        "engineers": 400,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 10,
+        "name": "posion",
+        "text": "Enemy has poisoned your food supplies killing many people.",
+        "army": -40,
+        "engineers": -40,
+        "civ": -100,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 11,
+        "name": "posion",
+        "text": "Enemy has poisoned your food supplies killing many people.",
+        "army": -40,
+        "engineers": -40,
+        "civ": -100,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 12,
+        "name": "posion",
+        "text": "Enemy has poisoned your food supplies killing many people.",
+        "army": -40,
+        "engineers": -40,
+        "civ": -100,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 13,
+        "name": "unrest",
+        "text": "War weariness causes civil unrest.",
+        "army": -100,
+        "engineers": 0,
+        "civ": -400,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 14,
+        "name": "unrest",
+        "text": "War weariness causes civil unrest.",
+        "army": -100,
+        "engineers": 0,
+        "civ": -400,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 15,
+        "name": "unrest",
+        "text": "War weariness causes civil unrest.",
+        "army": -100,
+        "engineers": 0,
+        "civ": -400,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 16,
+        "name": "sabotage walls",
+        "text": "Enemy has sabotaged your walls.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": -50,
+        "ES": 0
+  
+      },
+      {
+        "id": 17,
+        "name": "sabotage walls",
+        "text": "Enemy has sabotaged your walls.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": -50,
+        "ES": 0
+  
+      },
+      {
+        "id": 18,
+        "name": "sabotage walls",
+        "text": "Enemy has sabotaged your walls.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": -50,
+        "ES": 0
+  
+      },
+      {
+        "id": 19,
+        "name": "Knights of Amar",
+        "text": "Knights of Amar has joined your side.",
+        "army": 200,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 20,
+        "name": "Knights of Amar",
+        "text": "Knights of Amar has joined your side.",
+        "army": 200,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 21,
+        "name": "Knights of Amar",
+        "text": "Knights of Amar has joined your side.",
+        "army": 200,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 22,
+        "name": "enemy reinforcements",
+        "text": "Enemy reinforcements have arrived.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 5000
+  
+      },
+      {
+        "id": 23,
+        "name": "enemy reinforcements",
+        "text": "Enemy reinforcements have arrived.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 5000
+  
+      },
+      {
+        "id": 24,
+        "name": "enemy reinforcements",
+        "text": "Enemy reinforcements have arrived.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 5000
+  
+      },
+      {
+        "id": 25,
+        "name": "enemy reinforcements",
+        "text": "Enemy reinforcements have arrived.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 5000
+  
+      },
+      {
+        "id": 26,
+        "name": "enemy reinforcements",
+        "text": "Enemy reinforcements have arrived.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 5000
+  
+      },
+      {
+        "id": 27,
+        "name": "dragon attack",
+        "text": "Dragons reign fire upon your city",
+        "army": -200,
+        "engineers": -200,
+        "civ": -800,
+        "gold": 0,
+        "WS": -45,
+        "ES": 0
+  
+      },
+      {
+        "id": 28,
+        "name": "dragon attack",
+        "text": "Dragons reign fire upon your city",
+        "army": -200,
+        "engineers": -200,
+        "civ": -800,
+        "gold": 0,
+        "WS": -45,
+        "ES": 0
+  
+      },
+      {
+        "id": 29,
+        "name": "refugees",
+        "text": "Refugees from the surrounding villages flee to your city",
+        "army": 0,
+        "engineers": 0,
+        "civ": 1000,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 30,
+        "name": "refugees",
+        "text": "Refugees from the surrounding villages flee to your city",
+        "army": 0,
+        "engineers": 0,
+        "civ": 1000,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 31,
+        "name": "refugees",
+        "text": "Refugees from the surrounding villages flee to your city",
+        "army": 0,
+        "engineers": 0,
+        "civ": 1000,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 32,
+        "name": "refugees",
+        "text": "Refugees from the surrounding villages flee to your city",
+        "army": 0,
+        "engineers": 0,
+        "civ": 1000,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 33,
+        "name": "enemy seige",
+        "text": "Enemy siege engines shatter your defenses",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": -100,
+        "ES": 0
+  
+      },
+      {
+        "id": 34,
+        "name": "fear",
+        "text": "Fear takes a hold of your troops causing them to flee from the city.",
+        "army": -100,
+        "engineers": -50,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 35,
+        "name": "fear",
+        "text": "Fear takes a hold of your troops causing them to flee from the city.",
+        "army": -100,
+        "engineers": -50,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 36,
+        "name": "fear",
+        "text": "Fear takes a hold of your troops causing them to flee from the city.",
+        "army": -100,
+        "engineers": -50,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 37,
+        "name": "War God",
+        "text": "The Dark Lord summons a War God to reign destruction upon the city.",
+        "army": -1000,
+        "engineers": -1000,
+        "civ": -2000,
+        "gold": 0,
+        "WS": -200,
+        "ES": 0
+  
+      },
+      {
+        "id": 38,
+        "name": "Raiders",
+        "text": "Raiders attack the enemy encampment.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": -500
+  
+      },
+      
+      {
+        "id": 39,
+        "name": "Raiders",
+        "text": "Raiders attack the enemy encampment.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": -500
+  
+      },
+
+      {
+        "id": 40,
+        "name": "Elven Rangers",
+        "text": "Elven Rangers come to your aid.",
+        "army": 150,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 41,
+        "name": "Elven Rangers",
+        "text": "Elven Rangers come to your aid.",
+        "army": 150,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 42,
+        "name": "Elven Rangers",
+        "text": "Elven Rangers come to your aid.",
+        "army": 150,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 43,
+        "name": "Undead Army",
+        "text": "Dark Lord summons an army of the Dead.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 500
+  
+      },
+      {
+        "id": 44,
+        "name": "Undead Army",
+        "text": "Dark Lord summons an army of the Dead.",
+        "army": 0,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 500
+  
+      },
+      {
+        "id": 45,
+        "name": "fear and dread",
+        "text": "The enemy launches decapitated heads over the walls causing fear and dread",
+        "army": -150,
+        "engineers": -50,
+        "civ": -100,
+        "gold": 0,
+        "WS": 0,
+        "ES": 500
+  
+      },
+      {
+        "id": 46,
+        "name": "fear and dread",
+        "text": "The enemy launches decapitated heads over the walls causing fear and dread",
+        "army": -150,
+        "engineers": -50,
+        "civ": -100,
+        "gold": 0,
+        "WS": 0,
+        "ES": 500
+  
+      },
+      {
+        "id": 47,
+        "name": "looting",
+        "text": "Deserters loot the warehouses.",
+        "army": -50,
+        "engineers": 0,
+        "civ": 0,
+        "gold": -4000,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 48,
+        "name": "looting",
+        "text": "Deserters loot the warehouses.",
+        "army": -50,
+        "engineers": 0,
+        "civ": 0,
+        "gold": -4000,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 49,
+        "name": "Mages Guild",
+        "text": "Mages Guild sends their most talented wizards",
+        "army": 120,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 50,
+        "name": "Mages Guild",
+        "text": "Mages Guild sends their most talented wizards",
+        "army": 120,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 51,
+        "name": "Mages Guild",
+        "text": "Mages Guild sends their most talented wizards",
+        "army": 120,
+        "engineers": 0,
+        "civ": 0,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 52,
+        "name": "Undead Rises",
+        "text": "The Undead rises inside your city and unleashes hell.",
+        "army": -150,
+        "engineers": -50,
+        "civ": -500,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      },
+      {
+        "id": 53,
+        "name": "Undead Rises",
+        "text": "The Undead rises inside your city and unleashes hell.",
+        "army": -150,
+        "engineers": -50,
+        "civ": -500,
+        "gold": 0,
+        "WS": 0,
+        "ES": 0
+  
+      }
+]
