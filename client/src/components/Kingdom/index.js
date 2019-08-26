@@ -1,6 +1,7 @@
 import React from "react";
 import "./kingdom.css";
-function Jumbotron({ children }) {
+
+function Jumbotron(props) {
     return (
         <div className="jumbotron">
             <div className="kingdomName">
@@ -9,28 +10,28 @@ function Jumbotron({ children }) {
             <div className="content">
                 <ul className="stats">
                     <li className="one">
-                        <strong>Army:{children}</strong>
+                        <strong>Army:{props.army}</strong>
                     </li>
                     <li className="two">
-                        <strong>Engineers:{children}</strong>
+                        <strong>Engineers:{props.engineers}</strong>
                     </li>
                 </ul>
                 <ul className="stats">
-                    
+
                 </ul>
                 <ul className="stats">
                     <li className="three">
-                        <strong>Civilians:{children}</strong>
+                        <strong>Civilians:{props.civ}</strong>
                     </li>
                 </ul>
                 <ul className="stats">
                     <li className="four">
-                        <strong>Money:{children}</strong>
+                        <strong>Money:{props.gold}</strong>
                     </li>
                 </ul>
                 <ul className="stats">
                     <li className="five">
-                        <strong>Wall Strength:{children}</strong>
+                        <strong>Wall Strength:{props.ws}</strong>
                     </li>
                 </ul>
             </div >

@@ -1,14 +1,15 @@
 import React from "react";
 import "./cards.css";
 
-function FriendCard(props) {
+function Card(props) {
   return (
-    <div className="card">
+    <div onClick={() => props.addStats(props.id)} className="card">
       <div className="img-container">
-        <img  onClick={() => props.count(props.id)} className="remove" />
+        <img className="remove" />
       </div>
       <div className="content">
-          <h1>{props.text}</h1>
+        <p>{props.name}</p>
+        <p>{props.text}</p>
         <ul>
           <li>
             <strong>Army:{props.army}</strong>
@@ -25,10 +26,13 @@ function FriendCard(props) {
           <li>
             <strong>Enemy Strength:{props.es}</strong>
           </li>
+          <li>
+            <strong>Cost:{props.gold}</strong>
+          </li>
         </ul>
       </div>
     </div>
   );
 }
 
-export default FriendCard;
+export default Card;
