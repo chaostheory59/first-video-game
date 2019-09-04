@@ -5,7 +5,7 @@ function Jumbotron(props) {
     return (
         <div className="jumbotron">
             <div className="kingdomName">
-                <p>Kingdom Name: </p>
+                <p>Kingdom Name: {props.name} </p>
             </div>
             <div className="content">
                 <ul className="stats">

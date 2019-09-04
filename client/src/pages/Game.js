@@ -1,11 +1,11 @@
 import React, { Component } from "react";
-import Jumbotron from "./components/Title";
-import { Col, Row, Container } from "./components/Grid";
-import Cards from "./components/Cards";
-import Kingdom from "./components/Kingdom";
-import cards from "./cards.json";
-import Start from "./components/Start";
-import DayButton from "./components/DayButton";
+import Jumbotron from "../components/Title";
+import { Col, Row, Container } from "../components/Grid";
+import Cards from "../components/Cards";
+import Kingdom from "../components/Kingdom";
+import cards from "../cards.json";
+import Start from "../components/Start";
+import DayButton from "../components/DayButton";
 
 
 class Game extends Component {
@@ -71,7 +71,7 @@ class Game extends Component {
   render() {
     return (
       <Container fluid>
-        <Jumbotron>Game</Jumbotron>
+        <Jumbotron>Defense of Tor-Kurdin</Jumbotron>
         <Row>
           <Container>
             <Row>

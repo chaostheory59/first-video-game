@@ -1,20 +1,9 @@
 import React from "react";
-import "./login.css";
+import "./Login.css";
 function Jumbotron({ children }) {
     return (
         <div className="jumbotron">
-            <div className="gameTitle">
-                <strong>Defense of Tor-Kurdin</strong>
-            </div>
             <div className="content">
-                <ul className="login">
-                    <li className="username">
-                        <input type="account" class="form-control" id="input-name-create" placeholder="Username"></input>
-                    </li>
-                    <li className="password">
-                    <input type="email" class="form-control" id="input-password-create" placeholder="Password"></input>
-                    </li>
-                </ul>
                 <ul className="Story">
                 <li className="background-story">
                 <strong>Intro:</strong>

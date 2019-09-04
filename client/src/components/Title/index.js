@@ -3,7 +3,7 @@ import "./title.css";
 function Jumbotron({ children }) {
     return (
         <div className="title jumbotron">
-            {children}
+            <h1>{children}</h1>
         </div>
     );
 }
