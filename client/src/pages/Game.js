@@ -6,6 +6,7 @@ import Kingdom from "../components/Kingdom";
 import cards from "../cards.json";
 import Start from "../components/Start";
 import DayButton from "../components/DayButton";
+import axios from "axios";
 
 
 class Game extends Component {
@@ -20,6 +21,12 @@ class Game extends Component {
     ES: 100,
     day:1,
     newCards: []
+  }
+
+  componentDidMount () {
+    axios.get("/api/users/").then((response) => {
+      console.log(response.data);
+    })
   }
 
   three = cards => {

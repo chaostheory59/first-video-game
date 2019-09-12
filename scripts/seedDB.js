@@ -11,7 +11,6 @@ mongoose.connect(
 const usersSeed = [
   {
     name: "gooshtie",
-    password: "lala",
     gold: 2000,
     army: 500,
     civ: 2000,
@@ -22,7 +21,6 @@ const usersSeed = [
   },
   {
     name: "name",
-    password: "supercreative",
     gold: 2000,
     army: 500,
     civ: 2000,
@@ -33,7 +31,6 @@ const usersSeed = [
   },
   {
     name: "chris",
-    password: "password",
     gold: 2000,
     army: 500,
     civ: 2000,
